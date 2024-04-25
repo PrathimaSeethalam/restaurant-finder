@@ -1,0 +1,7 @@
+{
+  "name": "loc app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
