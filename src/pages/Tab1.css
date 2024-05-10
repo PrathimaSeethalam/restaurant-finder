@@ -1,0 +1,26 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+     font-weight: bold;
+    color: green; 
+     /* background-color: lightblue;  */
+  }
+.ion-padding{
+  background-color: aqua;
+ 
+}
+
+  .home-icon{
+    color:"blue"
+  }
+
+  .custom-segment {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    text-decoration-color: green; 
+    /* Add other segment styles as needed */
+  }
+
+  ion-content {
+    --background: #b51919 url("https://lh5.googleusercontent.com/proxy/ru_yu6oa5f8A57zQmcvOZ6uJjwEJNDcaw7_nh0b91MonzBdDEc6BaaysNEOq2jcGclYmNGFY1yHxEEYZ8EJCSCYVvu00_ZS6ffFYAk_7_kKw") no-repeat center center / cover;
+ }

@@ -1,0 +1,4 @@
+.button-container {
+    display: grid;
+    place-items: center; /* Aligns content horizontally and vertically */
+  }
